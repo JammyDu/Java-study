@@ -62,4 +62,4 @@ $RECYCLE.BIN/
 .metadata
 .classpath
 .project
-.org.eclipse.jdt.core.prefs
+*/.settings/*
